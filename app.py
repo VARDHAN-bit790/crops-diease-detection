@@ -11,7 +11,8 @@ app = Flask(__name__)
 
 # Load your trained model
 
-MODEL_PATH = r"E:\cropclean\Crop-Disease-Dectection-main\model\crop_disease_model.tf.keras"
+MODEL_PATH = "model/crop_disease_model.tf.keras"
+
 model = keras.models.load_model(MODEL_PATH, compile=False)
 print("✅ Model loaded successfully!")
 
