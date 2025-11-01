@@ -1,6 +1,5 @@
-streamlit==1.30.0
-numpy==1.26.4
-pandas==2.1.4
-opencv-python==4.9.0.80
-tensorflow==2.20.0rc0
-
+streamlit==1.39.0
+numpy==2.3.4
+pandas==2.2.3
+opencv-python==4.12.0.88
+tensorflow-cpu==2.20.0
