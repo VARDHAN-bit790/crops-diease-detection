@@ -1,0 +1,8 @@
+__pycache__/
+*.mp4
+*.avi
+*.zip
+*.rar
+*.log
+*.txt
+.env
